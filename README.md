@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
+<h1 align="center">Hi 👋, I'm Jeeva</h1>
 - 🌱 I’m currently learning **Web Development**
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
